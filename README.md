@@ -2,7 +2,7 @@
 Agentic AI written in Go, for infrastructure purposes
 
 # Quis custodiet ipsos custodes?
-The same is appliable to controlling applications. Many of companies need better tools to manage internal communication of Developers, Operators and *machines* other bees in the hive.
+The same is appliable to controlling applications. Many of companies need better tools to manage internal communication of Developers, Operators and ~~machines~~ other bees in the hive.
 This project targets on building PaaS by LLM and idea of chat-bot, delighted by third-order cybernetics.
 
 # Our capabilities
