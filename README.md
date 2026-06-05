@@ -1,4 +1,4 @@
-# kubeincube (will be changed)
+# PBuddy
 Agentic AI written in Go, for infrastructure purposes
 
 # Quis custodiet ipsos custodes?

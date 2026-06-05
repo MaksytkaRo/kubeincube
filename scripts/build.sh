@@ -1,3 +1,6 @@
 #!/bin/sh
 
-go build -o bin/agent src/kubeincube/main.go
+AUTHOR=$(head -n 1 REFERENCE)
+PROJECT=$(tail -n 1 REFERENCE)
+
+go build -o bin/agent src/$PROJECT/main.go
